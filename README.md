@@ -12,12 +12,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satrio-maruli-jaya-sianturi-330023222)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/satrio__sianturi?igshid=OXdsY2ZjZ3pmeW9q)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satriooosianturi@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satriosenturi@gmail.com)
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Satriomj&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Satriomj&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Satrioomj&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Satrioomj&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 # Skill
